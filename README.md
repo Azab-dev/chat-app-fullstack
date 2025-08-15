@@ -1,4 +1,8 @@
 # ✨ Full Stack Realtime Chat App ✨
+  <div>
+    <img src="https://github.com/Azab-dev/Azab-dev/blob/main/chat.png" alt="chatapp"/>
+  </div>
+
 
 
 A modern **full-stack realtime chat application** built with the MERN stack, featuring secure authentication, image sharing, and online status indicators. Designed with a clean, responsive UI and optimized for smooth real-time communication.
